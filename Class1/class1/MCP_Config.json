@@ -17,7 +17,7 @@
           "@modelcontextprotocol/server-github"
         ],
         "env": {
-          "GITHUB_PERSONAL_ACCESS_TOKEN": "YOUR_GITHUB_PERSONAL_ACCESS_TOKEN"
+          "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
         }
       },
       "puppeteer": {
@@ -63,7 +63,7 @@
           "@suekou/mcp-notion-server"
         ],
         "env": {
-          "NOTION_API_TOKEN": "YOUR_NOTION_API_TOKEN_HERE"
+          "NOTION_API_TOKEN": "ntn_m54403574348EGiO8ZQYo8d13dijDq7lJPQjFNc0GbAaEf"
         }
       }
     }
