@@ -7,7 +7,7 @@
           "@modelcontextprotocol/server-brave-search"
         ],
         "env": {
-          "BRAVE_API_KEY": "BSAO-CS1gnalW-vumFoORW0jq1DukzZ"
+          "BRAVE_API_KEY": "BSAO-CS1gnalW-11111111111111"
         }
       },
       "github": {
@@ -17,7 +17,7 @@
           "@modelcontextprotocol/server-github"
         ],
         "env": {
-          "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+          "GITHUB_PERSONAL_ACCESS_TOKEN": "github_pat_11AJ2BGXI0mSgITRenxk7I_aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
         }
       },
       "puppeteer": {
@@ -63,7 +63,7 @@
           "@suekou/mcp-notion-server"
         ],
         "env": {
-          "NOTION_API_TOKEN": "ntn_m54403574348EGiO8ZQYo8d13dijDq7lJPQjFNc0GbAaEf"
+          "NOTION_API_TOKEN": "ntn_m54403571111111111111111111111111111"
         }
       }
     }
