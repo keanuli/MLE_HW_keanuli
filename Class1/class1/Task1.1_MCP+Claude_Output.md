@@ -3,7 +3,7 @@
 ![Brave Search MCP output](Task1.1_MCP_Claude/1. Brave Search.png)
 
 ### 2. Github MCP output
-
+ 
 ### 3.Puppeteer MCP output
 
 ### 4.Filesystem MCP output
