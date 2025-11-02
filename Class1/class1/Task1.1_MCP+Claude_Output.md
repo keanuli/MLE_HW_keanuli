@@ -1,6 +1,6 @@
 
 ### 1. Brave Search MCP output
-![Brave Search MCP output](../Task1.1_MCP_Claude/1. Brave Search.png)
+![Brave Search MCP output](Task1.1_MCP_Claude/1. Brave Search.png)
 
 ### 2. Github MCP output
 
